@@ -4,7 +4,7 @@ import '../css/QuickSearch.css';
 
 const specialties = [
   'Dentist',
-  'GP',
+  'General Practitioner (GP)',
   'Orthodontist',
   'Pediatrician',
   'Cardiologist',
