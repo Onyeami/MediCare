@@ -9,7 +9,7 @@ const Footer = () => (
       <a href="#contact">Contact</a>
       <a href="#terms">Terms & Privacy</a>
     </div>
-    <div className="footer-copy">&copy; {new Date().getFullYear()} Dent Appointment App</div>
+    <div className="footer-copy">&copy; {new Date().getFullYear()} MediCare App</div>
   </footer>
 );
 
