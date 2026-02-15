@@ -91,7 +91,7 @@ export default function BookingForm({ basePath = '/dash' }) {
             <main className="dashboard-main">
                 <div className="page-container" style={{ maxWidth: '600px' }}>
                     <h2 className="page-title">
-                        {isDoctor ? 'Book Follow-up Appointment' : 'Book a New Appointment'}
+                        {isDoctor ? 'Follow-up Appointment Booking' : 'Book a New Appointment'}
                     </h2>
 
                     {loading ? (
