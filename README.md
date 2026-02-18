@@ -58,4 +58,3 @@ To see the project in action on your own computer:
    - Run `npm run dev` to open the "digital clinic" in your web browser.
 
 ---
-*Built with ❤️ to improve healthcare accessibility.*
