@@ -1,6 +1,6 @@
 # Doctor Appointment System
 
-Welcome to the Doctor Appointment System! This project is designed to make it easy for patients to find doctors and book appointments, while providing doctors with a simple way to manage their schedules and patients.
+Welcome to the Doctor Appointment System! This app is called MediCare App. This project is designed to make it easy for patients to find doctors and book appointments, while providing doctors with a simple way to manage their schedules and patients.
 
 ## The Patient & Doctor Experience (Frontend)
 
